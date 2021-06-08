@@ -1,0 +1,21 @@
+body {
+  background-color: lavenderblush
+}
+
+hr {
+  background-color: lavenderblush;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  width: 5%;
+  border-width: 5px;
+}
+h3{
+  color: red;
+}
+h1{
+  color: purple;
+}
+h2{
+  color: orange;
+}
